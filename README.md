@@ -1,4 +1,4 @@
-WALA [![Build Status](https://travis-ci.org/wala/WALA.svg?branch=master)](https://travis-ci.org/wala/WALA)
+WALA 
 =====================
 
 This is the main source repository for WALA.  For more details on WALA, see <a
